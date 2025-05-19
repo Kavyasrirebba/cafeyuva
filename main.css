@@ -160,7 +160,7 @@ nav ul.active {
 
 /*    Consultation Section    */
 .welcome-section{
-    background-image: url('./files/bg-img-1.png');
+    background-image: url('./bg-img-1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -213,7 +213,7 @@ nav ul.active {
 
 @media (max-width: 992px) {
     .welcome-section{
-        background-image: url('./files/bg-img-1.png');
+        background-image: url('./bg-img-1.png');
         background-repeat: no-repeat;
         background-size: contain;
         background-size: 100% 100%;
